@@ -1,14 +1,13 @@
 {
-  "name": "HerokuBannedDeployer",
-  "description": "With this you can deploy repos that are banned/blacklisted by heroku",
+  "name": "Auto-Forward-Bot-V2",
+  "description": "Telegram's Best Smart Plugin File Forward Bot",
+  "logo": "https://telegra.ph/file/5c3499c3b2ec282cf0c4e.jpg",
   "keywords": [
     "telegram",
-    "open",
-    "source",
-    "multi",
-    "purpose",
-    "remote",
-    "deployer"
+    "best",
+    "file",
+    "forward",
+    "bot"
   ],
    "REPO_URL": {
       "description": "URL of the REPO that you want to deploy.",
