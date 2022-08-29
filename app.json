@@ -10,8 +10,8 @@
     "bot"
   ],
   "success_url": "https://t.me/DForDarkAngel",
-  "website": "https://heroku.com/deploy?template=https://github.com/govtbaba/forwarder",
-  "repository": "https://heroku.com/deploy?template=https://github.com/govtbaba/forwarder",
+  "website": "https://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@github.com/govtbaba/Frwdit-V222.git",
+  "repository": "https://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@github.com/govtbaba/Frwdit-V222.git",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGSBot",
